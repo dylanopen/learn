@@ -22,6 +22,7 @@ Thank you for supporting our work!
 
 [Learn C](c/README.md)  
 [Learn C++](cpp/README.md)  
+[Learn Rust](rust/README.md)  
 
 ### High-level
 

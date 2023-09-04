@@ -1,4 +1,4 @@
-# Learn C
+# Learn Rust
 
 > Note: This course is currently unfinished and subject to change.
 
